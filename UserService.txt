@@ -1,2 +1,4 @@
 take some input from the user
 concat them in a single string
+
+create an avatar for user
